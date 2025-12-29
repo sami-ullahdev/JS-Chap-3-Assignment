@@ -25,4 +25,4 @@ function showAlert4() {
     var quantity = prompt("Quantity");
     var productTitle = prompt("Product Title");
     document.write(name + " ordered " + quantity + productTitle + " on XYZ Clothing store ")
-};
+}
